@@ -1,0 +1,6 @@
+{
+  "AISI 1045 steel (CD)": {"aliases": ["1045", "c45", "medium carbon steel"], "E_GPa": 205, "Sy_MPa": 530, "Su_MPa": 630, "Se_prime_MPa": 315, "sigma_f_MPa": 975, "b": -0.085, "density": 7850},
+  "AISI 4140 steel (Q&T)": {"aliases": ["4140", "42crmo4", "alloy steel"], "E_GPa": 205, "Sy_MPa": 835, "Su_MPa": 1020, "Se_prime_MPa": 510, "sigma_f_MPa": 1400, "b": -0.075, "density": 7850},
+  "Al 6061-T6": {"aliases": ["6061", "aluminium", "aluminum"], "E_GPa": 68.9, "Sy_MPa": 276, "Su_MPa": 310, "Se_prime_MPa": 96, "sigma_f_MPa": 950, "b": -0.11, "density": 2700},
+  "Ti-6Al-4V": {"aliases": ["ti64", "titanium", "grade 5"], "E_GPa": 114, "Sy_MPa": 880, "Su_MPa": 950, "Se_prime_MPa": 475, "sigma_f_MPa": 2030, "b": -0.104, "density": 4430}
+}
